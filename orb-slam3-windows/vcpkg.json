@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "boost",
+    "dbow2",
+    "g2o",
+    "opencv",
+    "pangolin"
+  ]
+}

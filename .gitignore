@@ -91,3 +91,7 @@ my_settings.txt
 borrar/*
 
 */ExecMean.txt
+/orb-slam3-windows/vcpkg_installed
+/orb-slam3-windows/orb-slam.e67c2779
+/orb-slam3-windows/x64
+/orb-slam3-windows/.vs
